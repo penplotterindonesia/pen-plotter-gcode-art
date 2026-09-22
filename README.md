@@ -25,6 +25,7 @@ Upload an image, adjust the settings, preview the result, and generate G-code in
 Get the ready-to-use Windows application on Gumroad:
 
 [Download Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
+[FREE TEST G-code ALBERT EINSTEIN — Wave-Line G-code Continuous Line • No Pen Lift on Gumroad]([https://penplotterindonesia.gumroad.com/](https://penplotterindonesia.gumroad.com/l/flpxqb)
 
 The download includes the complete portable application. No coding or Python installation is required.
 
