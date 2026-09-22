@@ -1,29 +1,55 @@
-# Custom High-Density Pen Plotter G-Code Portraits ✒️🤖
+# Squiggle Art
 
-Welcome! I create high-contrast, generative line-art portraits specifically optimized for pen plotters, drawbots, and DIY plotting machines. 
+## Turn Photos into Plotter-Ready G-Code in Seconds
 
-All files are generated using my **own custom-coded software** that converts any digital image into flawless, continuous machine lines in just a few seconds.
+Squiggle Art is a portable Windows tool that converts PNG, JPG, and JPEG images into continuous squiggle-style line art and customizable G-code for pen plotters, CoreXY machines, and DIY drawing robots.
 
----
+Upload an image, adjust the settings, preview the result, and generate G-code in seconds.
 
-## 🛒 Download Ready-to-Use G-Codes
-If you want to test these clean, highly optimized files on your own machine, you can download the ready-to-use `.gcode` and vector files directly from my store:
+## Features
 
-👉 **[GET MY READY-TO-USE G-CODES ON GUMROAD](http://penplotterindonesia.gumroad.com)**
+- PNG, JPG, and JPEG image support
+- Continuous horizontal squiggle line art
+- A4 drawing area support
+- Adjustable image width and height
+- Adjustable line spacing
+- Adjustable wave strength and density
+- Adjustable contrast and feed rate
+- Adjustable servo pen-up angle
+- Preview before generating G-code
+- Portable application
+- No Python installation required
 
----
+## Download the Portable Version
 
-## 🔥 Physical Plotter Results Gallery
-Here are some actual physical results drawn by my machine using these G-codes:
+Get the ready-to-use Windows application on Gumroad:
 
-### 1. High-Contrast Portrait Sketch
-![Plotter Art 1](IMG_5789.jpeg)
+[Download Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
 
-### 2. Famous Icons Collection
-![Plotter Art 2](IMG_6239.png)
+The download includes the complete portable application. No coding or Python installation is required.
 
----
+## System Requirements
 
-## 🛠️ Custom Work & Commissions
-Need a custom portrait of your favorite icon, family member, anime character, or pet? I accept custom G-code requests with high-density line paths and fast turnaround times.
-- **Drop me a message on Reddit:** u/Penplotterindonesia8
+- Windows 10 or Windows 11, 64-bit
+- Chrome, Microsoft Edge, or Firefox
+- A compatible pen plotter or CoreXY drawing machine
+
+The generated G-code may require machine-specific calibration.
+
+## Plotter Results
+
+This tool is designed for pen plotters, drawbots, and DIY plotting machines. Final results depend on the machine, pen, servo, controller, paper, and calibration settings.
+
+## Custom Work
+
+Need a custom portrait, icon, anime character, or pet drawing?
+
+Contact me on Reddit:
+
+u/Penplotterindonesia8
+
+## Important
+
+This product generates G-code. It does not include a physical plotter or pen hardware.
+
+Digital product. Windows only.
