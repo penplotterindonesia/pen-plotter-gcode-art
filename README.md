@@ -38,7 +38,21 @@ The generated G-code may require machine-specific calibration.
 
 ## Plotter Results
 
-This tool is designed for pen plotters, drawbots, and DIY plotting machines. Final results depend on the machine, pen, servo, controller, paper, and calibration settings.
+### High-contrast portrait
+
+![High-contrast portrait](IMG_5789.jpeg)
+
+### Plotter artwork
+
+![Plotter artwork](IMG_6239.png)
+
+These examples were created with a pen plotter using generated G-code. Final results may vary depending on the machine, pen, paper, servo, and calibration settings.
+
+## How it works
+
+Watch the demo:
+
+[Watch Squiggle Art in action](https://youtu.be/BOywTU-rB6A?si=aG4Yzy8Z2oVsyNYY)
 
 ## Custom Work
 
