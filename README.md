@@ -1,5 +1,19 @@
 # Squiggle Art
 
+# New Product: TikTokPen Portable
+
+A ready-to-run Windows app for GRBL pen plotters.
+
+- TikTok LIVE: automatic gift/follow name queue
+- YouTube: manual name entry
+- No Python installation required
+- Set Zero, GRBL connection, queue, and STOP controls
+
+👉 [Download TikTokPen Portable on Gumroad](https://penplotterindonesia.gumroad.com/l/rpxmrx)
+
+👉 [View TikTokPen details on GitHub](https://github.com/penplotterindonesia/tiktok-pen)
+
+---
 ## Turn Photos into Plotter-Ready G-Code in Seconds
 
 Squiggle Art is a portable Windows tool that converts PNG, JPG, and JPEG images into continuous squiggle-style line art and customizable G-code for pen plotters, CoreXY machines, and DIY drawing robots.
