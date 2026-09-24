@@ -8,6 +8,7 @@ A ready-to-run Windows app for GRBL pen plotters.
 - YouTube: manual name entry
 - No Python installation required
 - Set Zero, GRBL connection, queue, and STOP controls
+🎥 [Watch the TikTokPen Demo](https://www.youtube.com/@Penplotterindonesia/videos)
 
 👉 [Download TikTokPen Portable on Gumroad](https://penplotterindonesia.gumroad.com/l/rpxmrx)
 
