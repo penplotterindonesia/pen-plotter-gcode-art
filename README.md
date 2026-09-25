@@ -19,7 +19,7 @@ A ready-to-run Windows app for GRBL pen plotters.
 
 Get the ready-to-use Windows application on Gumroad:
 
-[Download Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
+[Download G-code Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
 
 [FREE TEST G-code ALBERT EINSTEIN — Wave-Line G-code Continuous Line • No Pen Lift on Gumroad](https://penplotterindonesia.gumroad.com/l/flpxqb)
 
