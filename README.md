@@ -15,6 +15,15 @@ A ready-to-run Windows app for GRBL pen plotters.
 
 👉 [View TikTokPen details on GitHub](https://github.com/penplotterindonesia/tiktok-pen)
 
+## Download the Portable Version
+
+Get the ready-to-use Windows application on Gumroad:
+
+[Download Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
+
+[FREE TEST G-code ALBERT EINSTEIN — Wave-Line G-code Continuous Line • No Pen Lift on Gumroad](https://penplotterindonesia.gumroad.com/l/flpxqb)
+
+The download includes the complete portable application. No coding or Python installation is required.
 ---
 ## Turn Photos into Plotter-Ready G-Code in Seconds
 
@@ -35,16 +44,6 @@ Upload an image, adjust the settings, preview the result, and generate G-code in
 - Preview before generating G-code
 - Portable application
 - No Python installation required
-
-## Download the Portable Version
-
-Get the ready-to-use Windows application on Gumroad:
-
-[Download Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
-
-[FREE TEST G-code ALBERT EINSTEIN — Wave-Line G-code Continuous Line • No Pen Lift on Gumroad](https://penplotterindonesia.gumroad.com/l/flpxqb)
-
-The download includes the complete portable application. No coding or Python installation is required.
 
 ## System Requirements
 
