@@ -21,6 +21,12 @@ Get the ready-to-use Windows application on Gumroad:
 
 [Download G-code Squiggle Art on Gumroad](https://penplotterindonesia.gumroad.com/)
 
+## How it works
+
+Watch the demo:
+
+🎥 [Watch Squiggle Art in action](https://youtu.be/BOywTU-rB6A?si=aG4Yzy8Z2oVsyNYY)
+
 [FREE TEST G-code ALBERT EINSTEIN — Wave-Line G-code Continuous Line • No Pen Lift on Gumroad](https://penplotterindonesia.gumroad.com/l/flpxqb)
 
 The download includes the complete portable application. No coding or Python installation is required.
@@ -64,12 +70,6 @@ The generated G-code may require machine-specific calibration.
 ![Plotter artwork](IMG_6239.png)
 
 These examples were created with a pen plotter using generated G-code. Final results may vary depending on the machine, pen, paper, servo, and calibration settings.
-
-## How it works
-
-Watch the demo:
-
-[Watch Squiggle Art in action](https://youtu.be/BOywTU-rB6A?si=aG4Yzy8Z2oVsyNYY)
 
 ## Custom Work
 
