@@ -23,6 +23,13 @@ Get the ready-to-use Windows application on Gumroad:
 
 [FREE TEST G-code ALBERT EINSTEIN — Wave-Line G-code Continuous Line • No Pen Lift on Gumroad](https://penplotterindonesia.gumroad.com/l/flpxqb)
 
+---
+📱 **Follow My Journey & Watch Live Streams:**
+* **Instagram:** [@petrus_atung](https://www.instagram.com/petrus_atung?stkn=eGZ4OXR4Zmpud2x3&utm_source=qr)
+* **YouTube:** [@Penplotterindonesia](https://youtube.com/@penplotterindonesia?si=2yErDnnjtIHlGdus)
+* **TikTok:**[@misipemula](https://www.tiktok.com/@misipemula?_r=1&_t=ZS-9A1Rz6e5raZ)
+* **Facebook:**[@ Jasa Drawing Penplotter](https://www.facebook.com/share/19fepQEC8V/?mibextid=wwXIfr)
+
 The download includes the complete portable application. No coding or Python installation is required.
 ---
 ## Turn Photos into Plotter-Ready G-Code in Seconds
